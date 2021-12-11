@@ -16,7 +16,7 @@ This project used model two approaches to learn the color profile from a pair of
 
 `filter_learning.ipynb`:
 
-This file contains the sample experiments where curve learning approaches are applied.
+This file contains the sample experiments where curve learning approaches were learned and applied.
 
 `learn.py`:
 
